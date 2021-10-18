@@ -1,4 +1,4 @@
-Text can be **Bold**, _italic_, ~~strikethrough~~,
+Teext can be **Bold**, _italic_, ~~strikethrough~~,
  
 [Link to git](http://github.com)
 # Header 1
